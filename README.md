@@ -46,7 +46,8 @@ This project demonstrates foundational Windows administration and troubleshootin
 
 The complete project report is available here:
 
-[View the Windows IT Support Lab PDF](./Windows-IT-Support-Troubleshooting-Lab.pdf)
+[View the Windows IT Support Lab PDF](https://github.com/user-attachments/files/29929289/Windows.IT.support.lab.pdf)
+)
 
 ## Outcome
 
